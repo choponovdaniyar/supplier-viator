@@ -1,0 +1,5 @@
+script/geckodriver.log
+script/data/result.html
+script/data/result.xlsx
+venv
+.idea
